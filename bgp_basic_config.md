@@ -120,7 +120,7 @@ network 15.0.1.0 mask 255.255.255.0
 
 ---
 
-Verifying commands
+## Verifying commands
 
 show BGP routing table
 
